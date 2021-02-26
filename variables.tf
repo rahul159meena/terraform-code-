@@ -1,4 +1,4 @@
 variable "Tagname" {
-    Default = "Demo"
+    default = "Demo"
 }  
 
